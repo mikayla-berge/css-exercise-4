@@ -1,0 +1,40 @@
+html{
+    background-color: lightgray;
+}
+
+.header{
+    background-color: olive;
+    margin: auto;
+    max-width: 1100px;
+    margin-bottom: 20px;
+}
+
+.main{
+    background-color: lightgreen;
+    padding: 20px;
+}
+
+.main-content{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    max-width: 1100px;
+}
+
+.aside{
+    background-color: teal;
+    padding: 20px;
+    height: 275px;
+    margin-right: 20px;
+}
+
+body{
+    margin: 0;
+}
+
+.footer{
+    background-color: aquamarine;
+    margin: auto;
+    max-width: 1100px;
+    margin-top: 20px;
+}
